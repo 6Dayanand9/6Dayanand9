@@ -1,3 +1,4 @@
+<img src="https://github.com/6Dayanand9/Readme_Profile/blob/main/banner/1.png" alt="banner" width="100%"/>
 # 💫 About Me:
 I am a Data Analyst with strong skills in Power BI, SQL, Excel, and Python.<br>I have experience in Machine Learning and Data Engineering, and I enjoy turning raw data into meaningful insights to support decision-making.<br>My goal is to solve real-world problems using data-driven solutions.<br>
 
